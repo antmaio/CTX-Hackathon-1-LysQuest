@@ -1,5 +1,6 @@
 # CTX-Hackathon-1-LysQuest
 <img src="images/logo.png" alt="logo" width="200"/>
+
 _Find New Adventures_
 
 ## Pitch of the project
