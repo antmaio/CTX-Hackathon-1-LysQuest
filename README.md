@@ -18,6 +18,9 @@ The brainstorm and structured project ideas can be found in this [miro app](http
 - PARMENTIER Rico, Howest
 - MAIORCA Antoine, UMONS
 
+<img src="images/team.png" alt="logo" width="300"/>
+
+
 ## Requirements
 
 Style transfer source code comes from [https://github.com/diyiiyiii/StyTR-2](https://github.com/diyiiyiii/StyTR-2).
