@@ -18,7 +18,7 @@ The brainstorm and structured project ideas can be found in this [miro app](http
 - PARMENTIER Rico, Howest
 - MAIORCA Antoine, UMONS
 
-<img src="images/team.png" alt="team" width="300"/>
+<img src="images/team.jpg" alt="team" width="300"/>
 
 
 ## Requirements
