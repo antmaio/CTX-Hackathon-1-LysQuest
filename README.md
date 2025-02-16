@@ -13,6 +13,8 @@ Bruges faces excessive tourist congestion, straining infrastructure and diminish
 
 ## Requirements
 
+Style transfer source code comes from [https://github.com/diyiiyiii/StyTR-2](https://github.com/diyiiyiii/StyTR-2).
+
 ## Context
 
 This project was developed during CrossTechXperience Interreg project ([http://www.crosstechxperience.eu](http://www.crosstechxperience.eu)) Hackathon #1.
